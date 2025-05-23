@@ -1,8 +1,6 @@
-nav ul {
-  list-style: none
+div p {
+  color: red;
 }
-
-nav li {
-  background-color: red;
-  font-size: 30px;
-}
+div p span {
+  color: blue;
+}/*# sourceMappingURL=style.css.map */
