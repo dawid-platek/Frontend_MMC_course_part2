@@ -1,6 +1,23 @@
-div p {
-  color: red;
+body {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 100vh;
+	background-color: royalblue;
+	font-family: sans-serif;
 }
-div p span {
-  color: blue;
-}/*# sourceMappingURL=style.css.map */
+
+.test p {
+	color: #000000;
+}
+
+.test span {
+	color: #000000;
+}
+
+p {
+	font-size: 72px;
+	text-transform: uppercase;
+}
+
+/*# sourceMappingURL=style.css.map */
